@@ -6,7 +6,7 @@
 4. You are Done <br/>
 
 # Its Includes
-1.API for Add role ,Add users,Signin with JWT Token authentication <br/>
-2.Production based spring security <br/>
-3.JWT Token configuration <br/>
-4.Role Based Authentication <br/>
+1. <b>API for Add role ,Add users,Signin with JWT Token authentication <br/>
+2. Production based spring security <br/>
+3. JWT Token configuration <br/>
+4. Role Based Authentication <br/>
